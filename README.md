@@ -1,58 +1,53 @@
-Hi, I’m Jerry (@jerryking5)
+# Hi 👋, I'm Jerry  
 
-🚀 Cloud Platform Engineer | DevOps | AWS | Kubernetes | Java Developer
+🚀 **Cloud Platform & DevOps Engineer** | **Kubernetes | AWS | Linux | Python**
 
-I specialize in building secured, scalable, and cost-optimized cloud environments for businesses.
-With expertise in AWS, Kubernetes, Docker, and DevOps pipelines, I help companies adopt modern infrastructure with security and efficiency at the core.
+---
 
-🔧 Tech Stack & Skills
+## 🌟 About Me
+- 🔹 Experienced in **building secured cloud environments** for small & medium-sized businesses.  
+- 🔹 Skilled in **Kubernetes, AWS, Docker, ArgoCD, DevOps practices**.  
+- 🔹 Strong focus on **security, resource management, and cost optimization**.  
+- 🔹 Capable of **end-to-end project management** from design to deployment.  
+- 🔹 Passionate about **automation, cloud-native solutions, and improving developer productivity**.  
 
-☁️ Cloud Platforms: AWS (EC2, EKS, ECS, Lambda, S3, IAM, VPC, CloudWatch, Cost Optimization)
+---
 
-🐳 Containerization & Orchestration: Docker, Kubernetes (EKS), Helm, ArgoCD
+## 🛠️ Tech Stack
+- **Cloud Platforms:** AWS (EKS, ECS, EC2, S3, VPC, IAM, Lambda)  
+- **Containers & Orchestration:** Kubernetes, Docker, Helm, ArgoCD  
+- **Infrastructure as Code:** Terraform, Ansible, CloudFormation  
+- **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI  
+- **Monitoring & Security:** Prometheus, Grafana, ELK Stack, Kubernetes Policies, AWS Security  
+- **Programming & Scripting:** Python, Bash, Linux Administration  
+- **Databases & Messaging:** MySQL, PostgreSQL, Kafka, Redis  
 
-🔐 Security & Governance: IAM, RBAC, Pod Security Standards, Network Policies, Resource Management
+---
 
-⚡ DevOps & Automation: CI/CD (Jenkins, GitHub Actions), Infrastructure as Code (Terraform, CloudFormation)
+## 📊 GitHub Stats  
 
-🐍 Scripting & Programming: Python, Bash, Shell scripting
+![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryking5&show_icons=true&theme=tokyonight)  
 
-💻 Backend Development: Java, Spring Boot, REST APIs, Kafka, Redis, Swagger
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryking5&layout=compact&theme=tokyonight)  
 
-🗄️ Databases: MySQL, PostgreSQL, Oracle
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerryking5&theme=tokyonight)  
 
-📈 What I Do
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerryking5&theme=tokyonight&utcOffset=5.5)  
 
-✅ Architect secure and scalable cloud environments
-✅ Implement CI/CD pipelines with automated deployments
-✅ Optimize cloud costs and performance
-✅ Develop microservices & APIs using Spring Boot
-✅ Manage Kubernetes workloads with security best practices
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerryking5&theme=tokyonight)  
 
-📂 Featured Projects
+---
 
-Cloud Infrastructure Optimization – Reduced AWS costs by analyzing workloads and applying right-sizing strategies.
+## 🚀 Featured Projects
+- 🔹 **[Kubernetes Security Standards](#)** – Implemented RBAC, Network Policies, and Pod Security Standards.  
+- 🔹 **[AWS Cost Optimization Toolkit](#)** – Automated cost analysis & alerting using Lambda + CloudWatch.  
+- 🔹 **[DevOps CI/CD Pipeline](#)** – Built multi-environment pipelines with Jenkins + ArgoCD.  
 
-Secure Kubernetes Deployment – Implemented Cilium network policies, RBAC, and resource quotas for production clusters.
+---
 
-ArgoCD GitOps – Automated Kubernetes deployments with GitOps workflows for multi-environment setups.
+## 📬 Connect with Me
+- 📝 [Medium / Blog](#) (coming soon)  
 
-🌍 Let’s Connect
 
-🐙 GitHub: jerryking5
-
-⚡ “Cloud should be secure, cost-effective, and scalable — I make it happen.”
-<!--
-**jerryking5/jerryking5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐️ From [jerryking5](https://github.com/jerryking5)
